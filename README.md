@@ -1,4 +1,3 @@
-Francisco Quintero
 Hello, I'm a Computer Hardware Engineering student at Metropolitan State University of
 Denver, with a 3.8 GPA and expected graduation in May 2028. I'm interested in
 hardware troubleshooting, electronics testing, and engineering technician work.

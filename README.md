@@ -21,6 +21,6 @@ while preserving the records.
 
 Contact
 - Email: fquin404@gmail.com
-- GitHub: fquin404
+- GitHub: @fquin404
 I'm seeking engineering internships, electronics testing positions, and
 engineering technician opportunities while completing my degree.
